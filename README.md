@@ -117,7 +117,3 @@ Delete a task by its ID.
 ## Testing the API
 
 Use [Bruno](https://www.usebruno.com/) or any API testing tool (like Postman or Insomnia) to test the endpoints.
-
-## License
-
-This project is licensed under the MIT License.
